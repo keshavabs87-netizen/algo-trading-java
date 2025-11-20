@@ -1,4 +1,4 @@
-package com.personal.algo.order.dto;
+package com.personal.algo.kite.dto;
 
 public class AnalyzeResponse {
     private double sma20;

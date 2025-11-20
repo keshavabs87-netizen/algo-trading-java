@@ -1,4 +1,4 @@
-package com.personal.algo.order.model;
+package com.personal.algo.kite.model;
 
 public class KiteSession {
     private String accessToken;

@@ -1,7 +1,7 @@
-package com.personal.algo.order.service;
+package com.personal.algo.kite.service;
 
-import com.personal.algo.order.model.KiteSession;
-import com.personal.algo.order.model.SessionStore;
+import com.personal.algo.kite.model.KiteSession;
+import com.personal.algo.kite.model.SessionStore;
 import com.zerodhatech.kiteconnect.KiteConnect;
 import com.zerodhatech.kiteconnect.kitehttp.exceptions.KiteException;
 import com.zerodhatech.models.User;

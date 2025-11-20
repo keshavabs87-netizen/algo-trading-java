@@ -1,7 +1,7 @@
-package com.personal.algo.order.service;
+package com.personal.algo.kite.service;
 
-import com.personal.algo.order.dto.AnalyzeRequest;
-import com.personal.algo.order.dto.AnalyzeResponse;
+import com.personal.algo.kite.dto.AnalyzeRequest;
+import com.personal.algo.kite.dto.AnalyzeResponse;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

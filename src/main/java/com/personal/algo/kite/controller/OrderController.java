@@ -1,9 +1,7 @@
-package com.personal.algo.order.controller;
+package com.personal.algo.kite.controller;
 
-import com.personal.algo.order.dto.AnalyzeRequest;
-import com.personal.algo.order.dto.AnalyzeResponse;
-import com.personal.algo.order.service.KiteService;
-import com.personal.algo.order.service.TradeService;
+import com.personal.algo.kite.service.KiteService;
+import com.personal.algo.kite.service.TradeService;
 import com.zerodhatech.kiteconnect.KiteConnect;
 import com.zerodhatech.kiteconnect.kitehttp.exceptions.KiteException;
 import com.zerodhatech.models.HistoricalData;

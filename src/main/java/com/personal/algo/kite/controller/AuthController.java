@@ -1,7 +1,7 @@
-package com.personal.algo.order.controller;
+package com.personal.algo.kite.controller;
 
-import com.personal.algo.order.model.KiteSession;
-import com.personal.algo.order.service.KiteService;
+import com.personal.algo.kite.model.KiteSession;
+import com.personal.algo.kite.service.KiteService;
 import com.zerodhatech.kiteconnect.kitehttp.exceptions.KiteException;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
