@@ -1,0 +1,31 @@
+http://localhost:8080/api/auth/login-url
+https://developers.kite.trade/apps
+
+
+Product :
+----------------------------------
+NRML: Overnight F&O
+CNC: Cash and Carry
+MIS: Intraday
+
+
+Order Type:
+------------------------------------------
+https://support.zerodha.com/category/trading-and-markets/general-kite/others-kite/articles/order-types-and-execution
+MARKET,
+LIMIT
+
+
+Variety:
+--------------------------------
+regular
+amo
+
+
+
+Collections.singletonList(kite.getHistoricalData(fromDate, toDate,"1001", "day", false, false))
+
+
+
+com.zerodhatech.kiteconnect.kitehttp.exceptions.PermissionException
+Insufficient permission for that call.
